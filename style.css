@@ -1,0 +1,67 @@
+#main-content h1{
+    color:lightgreen;
+    text-align: center;
+}
+
+#option1 h3{
+    color: blue;
+}
+
+#option1 p{
+    color: red;
+}
+
+#option2 h3{
+    color: blue
+}
+
+#option2 p{
+    color: red;
+}
+
+#option3 h3{
+    color: blue
+}
+
+#option3 p{
+    color: red;
+}
+
+#option1{
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    border-radius: 35px 45px;
+    display: inline-block;
+    background-color: lightgrey;
+}
+
+#option2{
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    border-radius: 35px 45px;
+    display: inline-block;
+    background-color: lightgrey;
+}
+
+#option3{
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    border-radius: 35px 45px;
+    display: inline-block;
+    background-color: lightgrey;
+}
+
+#option1{
+    text-align: center;
+}
+
+#option2{
+    text-align: center;
+}
+
+#option3{
+    text-align: center;
+}
